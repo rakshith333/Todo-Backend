@@ -1,0 +1,1 @@
+this is the notepad and it contains text file
